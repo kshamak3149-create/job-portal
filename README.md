@@ -1,4 +1,4 @@
-# 🚀 Smart Job Recommendation System- BY Kshama_A_K
+# 🚀 Smart Job Recommendation System- 
 
 Welcome to the **Smart Job Recommendation System**, an AI-driven platform that simplifies job searching by offering personalized recommendations, skill gap analysis, and real-time job alerts. This project leverages modern web technologies, machine learning, and web scraping to provide users with highly relevant job opportunities tailored to their skills and career goals.
 
